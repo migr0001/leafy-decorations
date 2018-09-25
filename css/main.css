@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-
+  background-color: #588477;
 }
 
 .logo {
@@ -23,7 +23,8 @@ html {
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
+  background-size:
 }
 
 .banner-content {
